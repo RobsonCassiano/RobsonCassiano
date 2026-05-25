@@ -23,7 +23,7 @@ I focus on process optimization, system integration, and building efficient tech
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobsonCassiano&show_icons=true&theme=default)
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RobsonCassiano&show_icons=true&theme=default
 
 ---
 
